@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 7,
+      "first_name": "Samson",
+      "last_name": "Amaran",
+      "contact": 3242343243,
+      "email": "samson@gmail.com",
+      "dob": "2023-09-28",
+      "address": "Kandivalifsdfds"
+    },
+    {
+      "first_name": "Nelson",
+      "last_name": "Amaran",
+      "contact": 5436565435,
+      "email": "das@gngai",
+      "dob": "2023-09-07",
+      "address": "Andheri west",
+      "id": 9
+    }
+  ]
+}

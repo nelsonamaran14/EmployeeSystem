@@ -1,0 +1,57 @@
+/* styles.css */
+.custom-link {
+    color: #007bff; 
+    text-decoration: none; 
+    font-weight: bold; 
+    margin: 0 10px; 
+    font-size: 18px; 
+  }
+  
+.custom-link:hover {
+  text-decoration: underline; 
+}
+  
+
+.custom-header {
+    font-family: "Arial", sans-serif; 
+    font-size: 28px; 
+    font-weight: bold; 
+    text-transform: uppercase; 
+  }
+  
+  .custom-header:hover {
+    text-decoration: underline; 
+  }
+
+
+
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #DCDCDC;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: black;
+  }
+  
+  
